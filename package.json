@@ -2,13 +2,32 @@
   "name": "ks-store",
   "version": "0.0.1",
   "description": "Store layer for koa-ship framework.",
+  "keywords": [
+    "koa",
+    "koa-ship",    
+    "store",
+    "middleware"
+  ],
   "main": "index.js",
   "dependencies": {
+    "mongoose": "^4.4.16",
+    "sequelize":"^3.23.0",
+
+    "fs-extra": "^0.30.0",
+    "lodash": "^4.12.0",
+    "require-all": "^2.0.0",
+    "class-inspector": "^0.0.2"
   },
   "devDependencies": {
+    "mocha": "^2.3.5",
+    "chai": "^3.5.0",
+    "mocha-clean": "^1.0.0"    
   },  
   "scripts": {
   },
+  "engines": {
+    "node": ">= 4"
+  },  
   "homepage": "https://github.com/koa-ship/ks-store",
   "repository": {
     "type": "git",
