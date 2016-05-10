@@ -1,0 +1,21 @@
+{
+  "name": "ks-store",
+  "version": "0.0.1",
+  "description": "Store layer for koa-ship framework.",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },  
+  "scripts": {
+  },
+  "homepage": "https://github.com/koa-ship/ks-store",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/koa-ship/ks-store.git"
+  },
+  "bugs": {
+    "url": "https://github.com/koa-ship/ks-store/issues"
+  },  
+  "license": "MIT"
+}
