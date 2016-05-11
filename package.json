@@ -15,7 +15,7 @@
     "fs-extra": "^0.30.0",
     "lodash": "^4.12.0",
     "require-all": "^2.0.0",
-    "class-inspector": "^0.0.2"
+    "class-inspector": "^0.1.0"
   },
   "devDependencies": {
     "mocha": "^2.3.5",
