@@ -1,11 +1,11 @@
 {
-  "name": "ks-store",
+  "name": "ks-database",
   "version": "0.1.2",
-  "description": "Store layer for koa-ship framework.",
+  "description": "database layer for koa-ship framework.",
   "keywords": [
     "koa",
     "koa-ship",
-    "store",
+    "database",
     "middleware"
   ],
   "main": "index.js",
@@ -26,13 +26,13 @@
   "engines": {
     "node": ">= 4"
   },
-  "homepage": "https://github.com/koa-ship/ks-store",
+  "homepage": "https://github.com/koa-ship/ks-database",
   "repository": {
     "type": "git",
-    "url": "https://github.com/koa-ship/ks-store.git"
+    "url": "https://github.com/koa-ship/ks-database.git"
   },
   "bugs": {
-    "url": "https://github.com/koa-ship/ks-store/issues"
+    "url": "https://github.com/koa-ship/ks-database/issues"
   },
   "license": "MIT"
 }

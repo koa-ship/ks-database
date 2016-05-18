@@ -1,4 +1,4 @@
-ks-store
+ks-database
 ===========
 
-Store layer for koa-ship framework.
+Database layer for koa-ship framework.
