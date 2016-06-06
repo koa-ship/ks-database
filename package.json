@@ -1,6 +1,6 @@
 {
   "name": "ks-database",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "database layer for koa-ship framework.",
   "keywords": [
     "koa",
